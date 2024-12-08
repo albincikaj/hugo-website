@@ -1,4 +1,4 @@
 baseURL = 'https://dataengineer.github.io/'
 languageCode = 'en-us'
 title = 'Albin data engineering blog'
-theme = 'contrast-hugo'
+theme = 'triple-hyde'
