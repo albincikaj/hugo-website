@@ -1,4 +1,4 @@
-baseURL = 'https://dataengineer.github.io/'
+baseURL = 'https://albincikaj.github.io/dataengiener.github.io/'
 languageCode = 'en-us'
 title = 'Albin data engineering blog'
 theme = 'triple-hyde'

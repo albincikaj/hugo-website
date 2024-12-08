@@ -4,7 +4,7 @@
 	branch = main
 [submodule "public"]
 	path = public
-	url = https://github.com/albincikaj/dataengiener.github.io.git
+	url = https://albincikaj.github.io/dataengiener.github.io
 	branch = main
 [submodule "themes/triple-hyde"]
 	path = themes/triple-hyde
